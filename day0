@@ -1,4 +1,1 @@
-2023/10/23开始rcore的学习
-##在win11上使用wsl2完后环境的配置
-wsl2的~/.bashrc 与 ~/profile增加环境变量的路径无效，最后修改了/etc/profile并修改$HOME为绝对路径后成功编译（有点坑，应该是wsl2的bug）
-##
+
